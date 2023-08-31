@@ -1,0 +1,30 @@
+.headingTitle {
+    text-align: center;
+    margin-top: 2.5em;
+    margin-bottom: 2em;
+}
+
+h3.headingTitle {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+section#disclaimer
+{
+    padding: 6em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+}
+
+img.footer{
+    height: 400px;
+    width: 1000px;
+    display: block;
+    margin: 0 auto;
+  }
+
+p.desc{
+text-align: center;
+margin-bottom: 2em;
+;}
